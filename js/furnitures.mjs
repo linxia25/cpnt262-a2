@@ -6,7 +6,7 @@ export const furnitures = [
       description:'Two Assorted-color Padded Chairs Near Side Table',
       width:      500,
       height:     319,
-      pathURL:    'images/padded-chairs.jpg',
+      pathURL:    'images/chair.jpg',
       linkURL:    'https://www.pexels.com/photo/two-assorted-color-padded-chairs-near-side-table-1350789/',
       credit:     'Eric Montanah',
       creditURL:  'https://www.pexels.com/@eric-montanah-578798',
